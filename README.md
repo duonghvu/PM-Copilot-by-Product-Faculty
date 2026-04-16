@@ -1,10 +1,19 @@
 # PM Copilot — The AI-Native PM Operating System
 
-**Plugin for Claude Code, Claude Cowork, Claude Desktop, and Claude.ai Web | v2.1 | Product Faculty**
+Stop working like a 2022 PM. Start operating like an AI-native one.
 
-PM Copilot is a plugin that combines deep, framework-grounded PM skills with live tool integrations, chained sub-agent workflows, and persistent user memory — making it the first AI product management partner that actually knows your product.
+PM Copilot is your AI Product Manager and an AI operating system for your product work.
 
-Built for solo PMs, founding PMs, and product leaders who run discovery, write PRDs, manage stakeholders, and maintain roadmaps all at once.
+65+ embedded PM skills across 12 domains
+17 command-based workflows (end-to-end execution, not prompts)
+8 specialized sub-agents (discovery, strategy, GTM, metrics, etc.)
+Persistent memory that evolves with your product
+
+Every command pulls your full context, connects to your tools, and executes like a real operator.
+
+It’s time to become a 100x Product Manager.
+
+Built by Product Faculty’s #1 AI PM Certification: trusted by 3,000+ PMs (1,000+ reviews) learning how to build and operate AI-native products.
 
 ---
 
