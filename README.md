@@ -6,7 +6,7 @@ Stop working like a 2022 PM. Start operating like an AI-native one.
 
 PM Copilot is your AI Product Manager and an AI operating system for your product work.
 
-65+ embedded PM skills across 12 domains
+66+ embedded PM skills across 12 domains
 17 command-based workflows (end-to-end execution, not prompts)
 8 specialized sub-agents (discovery, strategy, GTM, metrics, etc.)
 Persistent memory that evolves with your product
@@ -25,7 +25,7 @@ Built by Product Faculty: We run [#1 AI PM Certification](https://maven.com/prod
 - [Quick Start](#quick-start)
 - [What's Inside](#whats-inside)
   - [17 Slash Commands](#17-slash-commands)
-  - [65 PM Skills Across 12 Domains](#65-pm-skills-across-12-domains)
+  - [66 PM Skills Across 12 Domains](#66-pm-skills-across-12-domains)
   - [8 Specialized Sub-Agents](#8-specialized-sub-agents)
   - [Persistent User Memory](#persistent-user-memory)
   - [Live Tool Connectors (MCP)](#live-tool-connectors-mcp)
@@ -122,7 +122,7 @@ Commands are chained workflows that wire multiple skills together into end-to-en
 | `/design-ai-feature` | AI-specific: validate AI necessity, model tier selection, prompt architecture, eval framework, cost model, NLX UX |
 | `/weekly-digest` | Pull week's activity from all connected tools, compile digest with wins, blockers, and next-week focus |
 
-### 65 PM Skills Across 12 Domains
+### 66 PM Skills Across 12 Domains
 
 Skills are the atomic units of PM knowledge. Each skill lives in `skills/[name]/SKILL.md`, fires automatically when relevant, and can also be invoked directly. Every skill loads your memory profile and offers to update it when done.
 
@@ -131,7 +131,7 @@ Skills are the atomic units of PM knowledge. Each skill lives in `skills/[name]/
 | **System** | Memory layer, Onboarding wizard, Gossip mode | Tal Raviv (onboarding pattern) |
 | **Discovery** | Problem framing, Assumption mapping, JTBD analysis, OST, Continuous interview synthesis, Opportunity sizing, Switch interview | Teresa Torres (OST, CD), Bob Moesta (JTBD) |
 | **Strategy** | Vision setting, North Star, OKR structuring, Competitive positioning, Beachhead mapping, Pre-mortem, Product work levels, 7 Powers, Strategy stack | Marty Cagan, Hamilton Helmer, Shreyas Doshi |
-| **Execution** | PRD authoring, User story decomposition, Epic breakdown, Sprint prioritization, Prototype-ready spec | Pyramid Principle, Lenny's PRD guide |
+| **Execution** | PRD authoring, Quick PRD draft (10-min framework), User story decomposition, Epic breakdown, Sprint prioritization, Prototype-ready spec | Pyramid Principle, Lenny's PRD guide |
 | **Stakeholder Comms** | Exec summary, Launch announcement, Eng brief, Weekly digest, Risk escalation, Audience tailoring | Minto SCR, Pyramid Principle |
 | **Market & Users** | Persona development, Journey mapping, TAM/SAM/SOM sizing, Competitor battlecards, Feedback triage, Attitudinal segmentation | April Dunford (positioning) |
 | **Metrics & Data** | Cohort analysis, A/B test design, Funnel analysis, North Star selection, Dashboard structuring, SQL generation | North Star framework, AARRR, Lenny's guide |
@@ -201,7 +201,7 @@ PM Copilot runs on every Claude surface. Here's what to know for each.
 This is the full-power experience. Everything works out of the box:
 
 - All 17 slash commands via `/command-name`
-- All 65 skills fire automatically based on context
+- All 66 skills fire automatically based on context
 - 8 specialized sub-agents for complex multi-step workflows
 - MCP connectors via `.mcp.json` (Linear, Jira, Notion, Slack, GitHub)
 - Sub-agent parallelism for commands like `/brief-me` and `/roadmap`
@@ -308,7 +308,7 @@ pm-copilot/
 │   ├── gtm-planner.md
 │   └── ai-evaluator.md
 │
-├── skills/                      # 65 skills — flat structure (skills/[name]/SKILL.md)
+├── skills/                      # 66 skills — flat structure (skills/[name]/SKILL.md)
 │   ├── memory/SKILL.md          # System
 │   ├── onboarding/SKILL.md
 │   ├── gossip/SKILL.md
